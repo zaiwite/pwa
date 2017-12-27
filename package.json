@@ -1,0 +1,21 @@
+{
+  "name": "pwa-project",
+  "version": "1.0.0",
+  "description": "Simple Instagram clone to learn about PWAs",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 3000"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "tutorial"
+  ],
+  "author": "Marco Riolo",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
