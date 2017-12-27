@@ -1,0 +1,13 @@
+{
+  "name": "Instagram as a Progressive Web App",
+  "short_name": "PWAGram",
+  "start_url": "/index.html",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#FFF",
+  "theme_color": "#3F51B5",
+  "description": "Instagram as a Progressive Web App",
+  "dir": "ltr",
+  "lang": "en-US",
+  "orientation": "portrait-primary"
+}
